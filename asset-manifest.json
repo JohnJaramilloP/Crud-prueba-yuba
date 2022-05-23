@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/crud-prueba-yuba/static/css/main.a141e739.css",
-    "main.js": "/crud-prueba-yuba/static/js/main.649ab769.js",
+    "main.js": "/crud-prueba-yuba/static/js/main.550bbbbe.js",
     "index.html": "/crud-prueba-yuba/index.html",
     "main.a141e739.css.map": "/crud-prueba-yuba/static/css/main.a141e739.css.map",
-    "main.649ab769.js.map": "/crud-prueba-yuba/static/js/main.649ab769.js.map"
+    "main.550bbbbe.js.map": "/crud-prueba-yuba/static/js/main.550bbbbe.js.map"
   },
   "entrypoints": [
     "static/css/main.a141e739.css",
-    "static/js/main.649ab769.js"
+    "static/js/main.550bbbbe.js"
   ]
 }
