@@ -1,0 +1,105 @@
+.table-container {
+    width: 100%;
+    padding: .5rem 2rem;
+}
+
+.tables {
+    width: 100%;
+    max-width: 100%;
+    border-radius: 15px;
+}
+
+.fila {
+    background-image: linear-gradient(to top, #068bcd 0%, #00557F 100%);
+    border: 2px solid #006699;
+    color: #fff;
+    font-size: 1.2rem;
+    text-align: center;
+}
+
+.table-body {
+    font-size: 1.1rem;
+    text-align: center;
+}
+
+.filas {
+    text-align: center;
+}
+
+.fila1, .fila2 {
+    text-align: center;
+}
+
+.fila1 {
+    background-color: #fff;
+}
+
+.fila2 {
+    background-color: #cae7f5;
+}
+
+.columna {
+    max-width: 120px;
+    padding: .4rem;
+    border: 2px solid #006699;
+    overflow: hidden;
+}
+
+.btn-edit {
+    margin-right: 1rem;
+    padding: .1rem .8rem .4rem;
+    background-color: #068bcd;
+    color: #fff;
+    border-radius: 10px;
+    border: none;
+    font-size: 1.2rem;
+    font-weight: bold;
+}
+
+.btn-edit:hover {
+    background-color: #0aa4f1;
+}
+
+.btn-delete {
+    padding: .1rem .8rem .4rem;
+    background-color: rgb(250, 32, 32);
+    color: #fff;
+    border-radius: 10px;
+    border: none;
+    margin-left: 1rem;
+    font-size: 1.2rem;
+    font-weight: bold;
+}
+
+.btn-delete:hover {
+    background-color: rgb(250, 88, 88);
+}
+
+@media only screen and (max-width:620px) {
+    .table-container {
+        padding: 1rem .1rem;
+    }
+
+    .btn-edit {
+        width: 20%;
+        min-width: 1.8rem;
+        padding: .2rem .1rem;
+        margin-right: .5rem;
+        align-self: center;
+    }
+
+    .btn-delete {
+        width: 20%;
+        min-width: 1.8rem;
+        padding: .2rem .1rem;
+        margin-left: .5rem;
+        align-self: center;
+    }
+  }
+
+  @media only screen and (max-width:500px) {
+      .columna {
+          font-size: .9rem;
+      }
+
+  }

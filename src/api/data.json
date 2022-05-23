@@ -1,0 +1,159 @@
+{
+    "Departamentos": [
+      {
+        "_id": 1,
+        "codigo": "101",
+        "departamento": "Amazonas"
+      },
+      {
+        "_id": 2,
+        "codigo": 201,
+        "departamento": "Antioquia"
+      },
+      {
+        "_id": 3,
+        "codigo": 301,
+        "departamento": "Arauca"
+      },
+      {
+        "_id": 4,
+        "codigo": 401,
+        "departamento": "Atlántico"
+      },
+      {
+        "_id": 5,
+        "codigo": 501,
+        "departamento": "Bolívar"
+      },
+      {
+        "_id": 6,
+        "codigo": 601,
+        "departamento": "Boyacá"
+      },
+      {
+        "_id": 7,
+        "codigo": 701,
+        "departamento": "Caldas"
+      },
+      {
+        "_id": 8,
+        "codigo": 801,
+        "departamento": "Caquetá"
+      },
+      {
+        "_id": 9,
+        "codigo": 901,
+        "departamento": "Casanare"
+      },
+      {
+        "_id": 10,
+        "codigo": 1001,
+        "departamento": "Cauca"
+      },
+      {
+        "_id": 11,
+        "codigo": 1101,
+        "departamento": "Cesar"
+      },
+      {
+        "_id": 12,
+        "codigo": 1201,
+        "departamento": "Chocó"
+      },
+      {
+        "_id": 13,
+        "codigo": 1301,
+        "departamento": "Córdoba"
+      },
+      {
+        "_id": 14,
+        "codigo": 1401,
+        "departamento": "Guainía"
+      },
+      {
+        "_id": 15,
+        "codigo": 1501,
+        "departamento": "Guaviare"
+      },
+      {
+        "_id": 16,
+        "codigo": 1601,
+        "departamento": "Huila"
+      },
+      {
+        "_id": 17,
+        "codigo": 1701,
+        "departamento": "La Guajira"
+      },
+      {
+        "_id": 18,
+        "codigo": 1801,
+        "departamento": "Magdalena"
+      },
+      {
+        "_id": 19,
+        "codigo": 1901,
+        "departamento": "Meta"
+      },
+      {
+        "_id": 20,
+        "codigo": 2001,
+        "departamento": "Nariño"
+      },
+      {
+        "_id": 21,
+        "codigo": 2101,
+        "departamento": "Norte de Santander"
+      },
+      {
+        "_id": 22,
+        "codigo": 2201,
+        "departamento": "Putumayo"
+      },
+      {
+        "_id": 23,
+        "codigo": 2301,
+        "departamento": "Quindío"
+      },
+      {
+        "_id": 24,
+        "codigo": 2401,
+        "departamento": "Risaralda"
+      },
+      {
+        "_id": 25,
+        "codigo": 2501,
+        "departamento": "San Andrés y Prov_idencia"
+      },
+      {
+        "_id": 26,
+        "codigo": 2601,
+        "departamento": "Santander"
+      },
+      {
+        "_id": 27,
+        "codigo": 2701,
+        "departamento": "Sucre"
+      },
+      {
+        "_id": 28,
+        "codigo": 2801,
+        "departamento": "Tolima"
+      },
+      {
+        "_id": 29,
+        "codigo": 2901,
+        "departamento": "Valle del Cauca"
+      },
+      {
+        "_id": 30,
+        "codigo": 3001,
+        "departamento": "Vaupés"
+      },
+      {
+        "_id": 31,
+        "codigo": "3101",
+        "departamento": "Vichada"
+      }
+    ]
+  }
